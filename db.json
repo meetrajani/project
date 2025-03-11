@@ -7,7 +7,7 @@
     },
     {
       "title": "task 2",
-      "completed": false,
+      "completed": true,
       "id": 4
     }
   ]
